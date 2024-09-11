@@ -1,2 +1,1 @@
-create dadpop.txt file
-pop is a super hero
+my dad is a super hero
